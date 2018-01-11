@@ -1,4 +1,5 @@
-// demos/02.js
+// demos/06.js
+// koa-route 模块
 const Koa = require('koa')
 const route = require('koa-route')
 const app = new Koa()
